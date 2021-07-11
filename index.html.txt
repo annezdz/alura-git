@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cursos da Alura Baita Bons</title>
+    <title>Cursos da Alura Baita Bons e continuando as mudanças</title>
 </head>
 <body>
     <ul>
